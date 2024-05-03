@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
             <h1>g8 trainning program</h1>
+            <h2>hello world </h2>
       </header>
     </div>
   );
